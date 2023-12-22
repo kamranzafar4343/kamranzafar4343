@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamranzafar4343&label=Profile%20views&color=0e75b6&style=flat" alt="kamranzafar4343" /> </p>
 
-- 🔭 I’m currently working on [Cinema Ticket Booking](https://github.com/kamranzafar4343/MovieTicketBookingPractice) | [Google UI Clone](https://github.com/google-ui-clone) 
+- 🔭 I’m currently working on [Cinema Ticket Booking](https://github.com/kamranzafar4343/MovieTicketBookingPractice) | [Google UI Clone]([https://github.com/google-ui-clone](https://github.com/kamranzafar4343/google-UI-clone)) 
 
 - 🌱 I’m currently learning **Javascript | Flutter**
 
