@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamranzafar4343&label=Profile%20views&color=0e75b6&style=flat" alt="kamranzafar4343" /> </p>
 
-- 🔭 I’m currently working on [Image search web app using javascript api]
+- 🔭 I’m currently working on *Image search web app using Javascript api*
 - 🌱 I’m currently learning **HTML, CSS and Javascript**
 
 - 🤝 I’m looking for help with [PHP CRUD](https://github.com/kamranzafar4343/CRUD/issues/1) and [Google UI Clone](https://github.com/kamranzafar4343/google-UI-clone)
