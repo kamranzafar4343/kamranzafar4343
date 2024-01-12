@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on *Image search web app using Javascript api*
 - 🌱 I’m currently learning **HTML, CSS and Javascript**
 
-- 🤝 I’m looking for help with [PHP CRUD](https://github.com/kamranzafar4343/CRUD/issues/1) and [Google UI Clone](https://github.com/kamranzafar4343/google-UI-clone)
+- 🤝 I’m looking for help with [PHP CRUD](https://github.com/kamranzafar4343/CRUD/issues/1)
 
 - 👨‍💻 All of my projects are available at [My Webiste](https://sayhitokamran.000webhostapp.com/)
 
