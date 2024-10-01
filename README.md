@@ -6,3 +6,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamranzafar4343&show_icons=true&locale=en" alt="kamranzafar4343" /></p>
 
 
+[![An image of @kamranzafar4343's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kamranzafar4343)](https://holopin.io/@kamranzafar4343)
