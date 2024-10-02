@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **PHP, MYSQL, Javascript, Jquery, Ajax, html and css**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kamranzafar4343](https://github.com/kamranzafar4343)
+- 👨‍💻 All of my projects are available at [Respositories](https://github.com/kamranzafar4343?tab=repositories)
 
 - 💬 Ask me about **PHP, MYSQL, Jquery, Ajax, html and css**
 
