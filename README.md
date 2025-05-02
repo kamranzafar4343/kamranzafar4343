@@ -31,9 +31,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamranzafar4343&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-<p align="left">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamranzafar4343&" alt="kamranzafar4343" />
-</p>
 
 [![An image of @kamranzafar4343's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kamranzafar4343)](https://holopin.io/@kamranzafar4343)
 
