@@ -4,7 +4,6 @@
 </p>
 
 ## 💫 About Me
-- 🔭 Currently working on a **Point of Sale** system  
 - 🌱 Learning **PHP, MySQL, JavaScript, jQuery, HTML, CSS, Bootstrap**  
 - 👨‍💻 Check out my work: [GitHub Repositories](https://github.com/kamranzafar4343?tab=repositories)  
 - 📫 Reach me: **kamranzafar4343@gmail.com**
