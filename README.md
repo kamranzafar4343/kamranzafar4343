@@ -4,7 +4,7 @@
 </p>
 
 ## 💫 About Me
-- 🌱 Learning **PHP, MySQL, JavaScript, jQuery, HTML, CSS, Bootstrap**  
+- 🌱 Learning **PHP, LARAVEL**  
 - 👨‍💻 Check out my work: [GitHub Repositories](https://github.com/kamranzafar4343?tab=repositories)  
 - 📫 Reach me: **kamranzafar4343@gmail.com**
 
