@@ -10,11 +10,11 @@
 I build backend-focused web applications using **Laravel & PHP**, mainly working on:
 - ERP-style systems  
 - Financial reports & data processing  
-- Automation tools (PDF → CSV, reports, APIs)
+- Automation tools (forms, reports, APIs)
 
-I like creating small, practical tools that solve real business problems.
+I like practical tools that solve real business problems.
 
-- 🔧 Stack: **Laravel, PHP, MySQL, Java (CLI tools), REST APIs**
+- 🔧 Stack: **Laravel, PHP, SQL, REST APIs**
 - 📂 Projects: [GitHub Repositories](https://github.com/kamranzafar4343?tab=repositories)
 - 📫 Email: **kamranzafar4343@gmail.com**
 
@@ -41,15 +41,6 @@ I like creating small, practical tools that solve real business problems.
 - Git & GitHub
 - Linux / Windows
 - Java (for CLI utilities like Tabula)
-
----
-
-## ⚙️ What I’m Currently Building
-- PDF → CSV converter using Laravel + Java (Tabula)
-- ERP utilities for reports and data transformation
-- Single-page tools using Fetch API (no reload UI)
-
----
 
 ## 📊 GitHub Stats
 <p align="left">
