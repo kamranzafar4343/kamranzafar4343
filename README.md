@@ -8,9 +8,9 @@
 
 ## 👨‍💻 About Me
 I build backend-focused web applications using **Laravel & PHP**, mainly working on:
-- ERP-style systems  
-- Financial reports & data processing  
-- Automation tools (forms, reports, APIs)
+- ERP-style systems(forms, reports, APIs)  
+- Financial reports & data processing
+- Also make some SaaS ideas in free time(for fun)
 
 I like practical tools that solve real business problems.
 
@@ -28,9 +28,8 @@ I like practical tools that solve real business problems.
 ## 🛠 Tech Stack
 **Backend**
 - PHP, Laravel
-- MySQL
+- SQL
 - REST APIs
-- File processing (PDF / CSV / Excel)
 
 **Frontend**
 - Blade
@@ -40,12 +39,8 @@ I like practical tools that solve real business problems.
 **Tools & Environment**
 - Git & GitHub
 - Linux / Windows
-- Java (for CLI utilities like Tabula)
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamranzafar4343&show_icons=true&locale=en" />
-</p>
+## 📊 GitHub Stats <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kamranzafar4343&show_icons=true&locale=en" alt="GitHub Stats" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamranzafar4343&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> </p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamranzafar4343&layout=compact" />
